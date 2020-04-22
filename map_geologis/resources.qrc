@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/Map_Geologis" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
